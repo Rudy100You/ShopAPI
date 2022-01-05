@@ -1,0 +1,26 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "API de Tienda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rudy100You/ShopAPI.git"
+  },
+  "keywords": [
+    "Shop",
+    "Rudy100You"
+  ],
+  "author": "Rudy Sarabia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rudy100You/ShopAPI/issues"
+  },
+  "homepage": "https://github.com/Rudy100You/ShopAPI#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
